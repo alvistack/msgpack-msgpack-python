@@ -1,0 +1,5 @@
+python-msgpack source: file-without-copyright-information
+python-msgpack source: no-debian-changes
+python-msgpack source: source-contains-prebuilt-windows-binary
+python-msgpack source: source-is-missing
+python-msgpack source: source-package-encodes-python-version
