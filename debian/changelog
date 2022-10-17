@@ -1,0 +1,5 @@
+python-msgpack (100:1.0.4-1) UNRELEASED; urgency=medium
+
+  * https://github.com/msgpack/msgpack-python/releases/tag/v1.0.4
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Fri, 03 Jun 2022 23:18:51 +0800
