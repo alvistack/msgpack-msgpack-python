@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "msgpack"
-dynamic = ["version"]
+version = "1.0.6"
 license = {text="Apache 2.0"}
 authors = [{name="Inada Naoki", email="songofacandy@gmail.com"}]
 description = "MessagePack serializer"
@@ -38,9 +38,6 @@ Documentation = "https://msgpack-python.readthedocs.io/"
 Repository = "https://github.com/msgpack/msgpack-python/"
 Tracker = "https://github.com/msgpack/msgpack-python/issues"
 Changelog = "https://github.com/msgpack/msgpack-python/blob/main/ChangeLog.rst"
-
-[tool.setuptools.dynamic]
-version = {attr = "msgpack.__version__"}
 
 [tool.black]
 line-length = 100
