@@ -1,0 +1,4 @@
+python3-msgpack: copyright-without-copyright-notice
+python3-msgpack: initial-upload-closes-no-bugs
+python3-msgpack: no-manual-page
+python3-msgpack: zero-byte-file-in-doc-directory
